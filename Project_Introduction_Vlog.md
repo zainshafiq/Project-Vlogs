@@ -1,6 +1,6 @@
 # Project_Introduction_Vlog
 
-The slight introduction of NotJustCode group member and what we are bringing to the table. 
+The slight introduction of NotJustCode members and what we are bringing to the table. 
 
 *Based on ENSE 400 list provided by Dr.Tim Maciag
 
