@@ -8,12 +8,12 @@ The slight introduction of NotJustCode members and what we are bringing to the t
     (i)   Project roles and responsibilities
 
 2.  Project background & business need/opportunity
-    (i)   Discuss information that will help the viewer (SSE faculty and the general public) understand the context and background history 
+    (i)   Discuss information that will help the viewers (SSE faculty and the general public) understand the context and background history 
           regarding team's project. 
     (ii)  Trying to dive into the business need (if any) or opportunity/innovation that the team's project idea will introduce into the world
 
 3.  Reason
-    (i)   Solving problem
+    (i)   Solving problems
     (ii)  Show our thinking
     (iii) Expression of ideas, feelings, or interpretations
     (iv)  Interpreting information in a new way
