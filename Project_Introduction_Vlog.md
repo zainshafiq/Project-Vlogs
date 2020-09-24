@@ -2,7 +2,7 @@
 
 The slight introduction of NotJustCode members and what we are bringing to the table. 
 
-*Based on ENSE 400 list provided by Dr.Tim Maciag
+*Based on ENSE 400 list provided by Dr.Tim Maciag (U of R, SK)
 
 1.  Team member introductions
     (i)   Project roles and responsibilities
@@ -33,4 +33,4 @@ The slight introduction of NotJustCode members and what we are bringing to the t
     (i)   Type of constraints your team envisions, e.g. knowledge, technology, access to customers, etc? 
     (ii)  To inspire better thinking, we have to become more resourceful and work within limitations - what are the envisioned constraints and limitations?
     
-*Based on ENSE 400 list provided by Dr.Tim Maciag
+*Based on ENSE 400 list provided by Dr.Tim Maciag (U of R, SK)
